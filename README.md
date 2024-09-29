@@ -31,5 +31,5 @@
 # 🌐 Connect with me:
 - LinkedIn: [Pratham-Lodha](https://www.linkedin.com/in/pratham-lodha-5547b02a5/)
 
-<img src="https://raw.githubusercontent.com/harshparmar4760/harshparmar4760/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Prathamlodha/Prathamlodha/output/snake.svg" alt="Snake animation" />
 
