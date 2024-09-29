@@ -29,5 +29,5 @@
 - 5-star performer on HackerRank in SQL and database management.
 
 # 🌐 Connect with me:
-- LinkedIn: [harshit-dhundale](https://www.linkedin.com/in/pratham-lodha-5547b02a5/)
+- LinkedIn: [Pratham-Lodha](https://www.linkedin.com/in/pratham-lodha-5547b02a5/)
 
